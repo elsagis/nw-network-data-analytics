@@ -2,7 +2,7 @@
 
 Network for those earning a NW Masters of Applied Data Science
 
-- [GitHub](https://github.com/denisecase) ◆ [LinkedIn](https://www.linkedin.com/in/denisecase) ◆ Denise Case
+- [GitHub](https://github.com/elsagis) ◆ [LinkedIn](https://www.linkedin.com/in/Elsa Tesfaslassie) ◆ Elsa Ghirmazion
 
 ## Spring 2023 Block 1 - 671 - Streaming Data
 
