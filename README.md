@@ -20,7 +20,7 @@ Network for those earning a NW Masters of Applied Data Science
  - [GitHub]() ◆ [LinkedIn]() ◆ DE
  - [GitHub]() ◆ [LinkedIn]() ◆ TF
  - [GitHub]() ◆ [LinkedIn]() ◆ AF
- - [GitHub]() ◆ [LinkedIn]() ◆ EG
+ - [GitHub](https://github.com/elsagis) ◆ [LinkedIn]() ◆ Elsa Tesfaslassie
  - [GitHub]() ◆ [LinkedIn]() ◆ MG
  - [GitHub]() ◆ [LinkedIn]() ◆ AH
  - [GitHub]() ◆ [LinkedIn]() ◆ KH
